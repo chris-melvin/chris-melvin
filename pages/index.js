@@ -8,6 +8,7 @@ import Contact from "../components/contact";
 import About from "../components/aboutme";
 import Button from "../components/button";
 import ContactMe from "../components/contactme";
+import Resume from "../components/resume";
 
 export default function Home({ filecontent }) {
   const contactRef = useRef();
@@ -23,6 +24,7 @@ export default function Home({ filecontent }) {
         strategy="beforeInteractive"
         src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"
       />
+      <Resume />
       <Hero>
         <div className="w-2/3 ml-10 pt-48">
           <h1 className="text-2xl md:text-6xl text-white font-bold">
