@@ -1,6 +1,6 @@
 export default function ContactMe() {
   return (
-    <div className="md:w-1/2">
+    <div className="w-full md:w-1/2">
       <form
         action="https://usebasin.com/f/a83b09cacd91
     "

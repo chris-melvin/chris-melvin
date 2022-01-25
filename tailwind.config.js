@@ -12,7 +12,7 @@ module.exports = {
         background: "#003049",
       },
       gridTemplateColumns: {
-        autofit: "repeat(auto-fit, minmax(350px, 1fr))",
+        autofit: "repeat(auto-fit, minmax(375px, 1fr))",
       },
       dropShadow: {
         error: "0 5px 5px 0 #cc0000",

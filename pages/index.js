@@ -1,3 +1,4 @@
+import { useRef } from "react";
 import Head from "next/head";
 import Hero from "../components/hero";
 import Script from "next/script";
@@ -9,6 +10,10 @@ import Button from "../components/button";
 import ContactMe from "../components/contactme";
 
 export default function Home({ filecontent }) {
+  const contactRef = useRef();
+  function handleBackClick() {
+    contactRef.current.scrollIntoView({ behavior: "smooth" });
+  }
   return (
     <>
       <Head>
@@ -29,31 +34,37 @@ export default function Home({ filecontent }) {
           <p className="text-sm md:text-lg text-gray-100 mt-2 md:mt-4 ml-1">
             Jamstack Developer, Front-End Developer
           </p>
-          <Button>Contact</Button>
+          <button
+            onClick={handleBackClick}
+            type="submit"
+            className="border-2 mt-2 border-primary border-solid text-primary font-medium rounded py-3 px-7 hover:bg-primarylight"
+          >
+            Contact
+          </button>
         </div>
       </Hero>
       <About />
       <section className="bg-background p-4">
         <h1 className="text-3xl text-white pb-4">Projects</h1>
-        <div className="grid grid-cols-autofit gap-4 items-stretch">
+        <div className="grid md:grid-cols-autofit gap-4 items-stretch">
           {filecontent.map((project) => (
             <ProjectCard key={project.id} project={project} />
           ))}
         </div>
       </section>
 
-      <section className="bg-background p-4 ">
+      <section ref={contactRef} className="bg-background p-4 ">
         <h1 className="text-3xl text-white pb-4">Contact</h1>
 
-        <div className="flex justify-center sm:flex-wrap-reverse w-full ">
+        <div className="flex justify-center flex-wrap-reverse  ">
           <ContactMe />
 
-          <div className="md:w-1/2 pt-6 px-4">
+          <div className="md:w-1/2 pt-6 md:px-4">
             <h2 className="text-2xl text-white ">Get In Touch </h2>
             <p className="text-lg text-white  ">
-              I’m currently looking for any new opportunities, my inbox is
-              always open. Whether you have a question or just want to say hi,
-              I’ll try my best to get back to you!
+              I’m currently looking for new opportunities. Whether you want to
+              work with me, you have a question or just want to say hi, feel
+              free to send me a message.
             </p>
           </div>
         </div>
