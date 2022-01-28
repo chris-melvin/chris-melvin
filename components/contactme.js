@@ -13,7 +13,7 @@ export default function ContactMe() {
           </label>
           <input
             required
-            className="text-black text-lg block my-2 p-2  rounded w-full"
+            className="text-black text-lg block my-2 p-2 outline-none focus:outline-primary border border-primary border-solid outline-offset-0  rounded w-full"
             type="text"
             id="firstName"
           />
@@ -22,7 +22,7 @@ export default function ContactMe() {
           </label>
           <input
             required
-            className="text-black text-lg block my-2 p-2  rounded w-full"
+            className="text-black text-lg block my-2 p-2   outline-none focus:outline-primary border border-primary border-solid outline-offset-0 rounded w-full"
             type="email"
             id="email"
           />
@@ -31,7 +31,7 @@ export default function ContactMe() {
           </label>
           <textarea
             required
-            className="text-black text-lg block my-2 p-2 rounded w-full resize-none"
+            className="text-black text-lg block my-2 p-2 outline-none focus:outline-primary border border-primary border-solid outline-offset-0 rounded w-full resize-none"
             id="message"
           />
           <button

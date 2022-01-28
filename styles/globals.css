@@ -18,3 +18,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.contact {
+  @apply text-black text-lg block my-2 p-2 outline-none;
+}

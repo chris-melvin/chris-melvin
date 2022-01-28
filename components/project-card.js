@@ -3,9 +3,11 @@ import { AiFillGithub, AiOutlineLink } from "react-icons/ai";
 export default function ProjectCard({ project }) {
   const { title, description, url, github, technologies } = project;
   return (
-    <div className="relative">
+    <div className="relative group hover:-translate-y-2">
       <div className="bg-secondary rounded shadow-lg relative h-full p-4 mb-12">
-        <h1 className="font-bold text-white text-2xl mb-2">{title}</h1>
+        <h1 className="font-bold text-white text-2xl mb-2 group-hover:text-primary">
+          {title}
+        </h1>
         <p className="text-white text-base w-10/12">{description}</p>
       </div>
       <div className="absolute bottom-2 px-4 w-full">

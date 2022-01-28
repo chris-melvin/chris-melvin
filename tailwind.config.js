@@ -14,8 +14,8 @@ module.exports = {
       gridTemplateColumns: {
         autofit: "repeat(auto-fit, minmax(375px, 1fr))",
       },
-      dropShadow: {
-        error: "0 5px 5px 0 #cc0000",
+      boxShadow: {
+        focus: "0 0 5px rgba(81, 203, 238, 1);",
       },
     },
   },
