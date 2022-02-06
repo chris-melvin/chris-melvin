@@ -15,6 +15,7 @@ export default function ContactMe() {
             required
             className="text-black text-lg block my-2 p-2 outline-none focus:outline-primary border border-primary border-solid outline-offset-0  rounded w-full"
             type="text"
+            name="firstName"
             id="firstName"
           />
           <label className="text-white text-lg" htmlFor="email">
@@ -24,6 +25,7 @@ export default function ContactMe() {
             required
             className="text-black text-lg block my-2 p-2   outline-none focus:outline-primary border border-primary border-solid outline-offset-0 rounded w-full"
             type="email"
+            name="email"
             id="email"
           />
           <label className="text-white text-lg" htmlFor="message">
@@ -33,6 +35,7 @@ export default function ContactMe() {
             required
             className="text-black text-lg block my-2 p-2 outline-none focus:outline-primary border border-primary border-solid outline-offset-0 rounded w-full resize-none"
             id="message"
+            name="message"
           />
           <button
             className="border-2 mt-2 border-primary border-solid text-primary font-medium rounded py-3 px-7 hover:bg-primarylight"
