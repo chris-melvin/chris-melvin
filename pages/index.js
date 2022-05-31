@@ -18,7 +18,7 @@ export default function Home({ filecontent }) {
   return (
     <>
       <Head>
-        <title>Home</title>
+        <title>Chris Melvin | Web Developer</title>
       </Head>
       <Script
         strategy="beforeInteractive"

@@ -1,5 +1,13 @@
 [
   {
+    "title": "Axie Origin Card Explorer",
+    "description": "Made with Tailwind, Next.js, and Sanity.io",
+    "url": "https://origin-rosy.vercel.app/",
+    "github": "https://github.com/chris-melvin/origin",
+    "technologies": ["React", "TailwindCSS", "JAMStack"],
+    "id": 0
+  },
+  {
     "title": "Canine Gallery",
     "description": "A gallery of dogs from an API.",
     "url": "https://caninegallery.onrender.com/",
@@ -8,25 +16,25 @@
     "id": 1
   },
   {
-    "title": "Interesthings",
-    "description": "A respository of interesting facts about the world.",
-    "url": "https://interesthings.fun/",
-    "github": "https://github.com/chris-melvin/interesthings",
-    "technologies": ["Gatsby", "Styled-Components", "Sanity"],
-    "id": 2
-  },
-  {
     "title": "Vinciix",
     "description": "Motivational blog made with Next.js, Sanity, and Tailwind.",
     "url": "https://vinciix.com",
     "github": "",
     "technologies": ["Next.js", "Sanity", "Tailwind", "JAMStack"],
+    "id": 2
+  },
+  {
+    "title": "Open Session",
+    "description": "Organization website built with Gatsby, Styled-Components, and Contentful",
+    "url": "https://opensession.onrender.com/",
+    "github": "",
+    "technologies": ["Gatsby", "Styled-Components", "Contentful", "JAMStack"],
     "id": 3
   },
   {
     "title": "Compound Calculator",
     "description": "A simple calculator that computes compound interest overtime for a given investment",
-    "url": "https://compound-calculator.onrender.com/",
+    "url": "https://compound-calculator-psi.vercel.app/",
     "github": "https://github.com/chris-melvin/compound-calculator/",
     "technologies": ["React", "CSS", "HTML"],
     "id": 4
