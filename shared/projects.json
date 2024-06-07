@@ -8,20 +8,28 @@
     "id": 0
   },
   {
+    "title": "AI Image Generator",
+    "description": "A simple image generator that uses an AI model to generate images based on user input",
+    "url": "https://smartframe.vercel.app/",
+    "github": "https://github.com/chris-melvin/smartframe",
+    "technologies": ["React", "TailwindCSS", "OPEN AI API"],
+    "id": 1
+  },
+  {
     "title": "Canine Gallery",
     "description": "A gallery of dogs from an API.",
     "url": "https://caninegallery.onrender.com/",
     "github": "https://github.com/chris-melvin/dogs/",
     "technologies": ["React", "API", "CSS", "HTML"],
-    "id": 1
+    "id": 2
   },
   {
     "title": "Vinciix",
     "description": "Motivational blog made with Next.js, Sanity, and Tailwind.",
-    "url": "https://vinciix.com",
+    "url": "https://vinciix.vercel.app/",
     "github": "",
     "technologies": ["Next.js", "Sanity", "Tailwind", "JAMStack"],
-    "id": 2
+    "id": 3
   },
   {
     "title": "Open Session",
@@ -29,7 +37,7 @@
     "url": "https://opensession.onrender.com/",
     "github": "",
     "technologies": ["Gatsby", "Styled-Components", "Contentful", "JAMStack"],
-    "id": 3
+    "id": 4
   },
   {
     "title": "Compound Calculator",
@@ -37,14 +45,6 @@
     "url": "https://compound-calculator-psi.vercel.app/",
     "github": "https://github.com/chris-melvin/compound-calculator/",
     "technologies": ["React", "CSS", "HTML"],
-    "id": 4
-  },
-  {
-    "title": "Covid Tracker",
-    "description": "Display data on the current state of the COVID-19 pandemic.",
-    "url": "https://tracker-v5m9.onrender.com/",
-    "github": "https://github.com/chris-melvin/tracker",
-    "technologies": ["React", "CSS", "HTML", "Chart.js"],
     "id": 5
   }
 ]

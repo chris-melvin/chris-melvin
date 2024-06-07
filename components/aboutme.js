@@ -13,12 +13,12 @@ export default function About() {
           at
           <a
             className="text-primary "
-            href="https://vinciix.com"
+            href="https://vinciix.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
             {" "}
-            vinciix.com &rarr;
+            vinciix.vercel.app &rarr;
           </a>
         </p>
       </div>

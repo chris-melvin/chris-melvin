@@ -29,7 +29,7 @@ export default function Home({ filecontent }) {
         <div className="w-2/3 ml-10 pt-48">
           <h1 className="text-2xl md:text-6xl text-white font-bold">
             Hi,
-            <br /> I’m <span className="text-primary">Chris Melvin</span>
+            <br /> I&apos;m <span className="text-primary">Chris Melvin</span>
             , <br />
             Web Developer
           </h1>
@@ -64,8 +64,8 @@ export default function Home({ filecontent }) {
           <div className="md:w-1/2 pt-6 md:px-4">
             <h2 className="text-2xl text-white ">Get In Touch </h2>
             <p className="text-lg text-white  ">
-              I’m currently looking for new opportunities. Whether you want to
-              work with me, you have a question or just want to say hi, feel
+              I&apos;m currently looking for new opportunities. Whether you want
+              to work with me, you have a question or just want to say hi, feel
               free to send me a message.
             </p>
           </div>
