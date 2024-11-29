@@ -1,25 +1,63 @@
-# Chris Melvin
-## Introduction
-Welcome to my GitHub repository! I am a passionate Software Engineer with a focus on frontend development. This repository showcases my work and projects utilizing various modern technologies.
+# Hi there, I'm Chris Melvin 👋
 
-## Technologies
-My primary expertise lies in the following technologies:
+## Frontend Developer
 
-### Frontend
-- React.js: A powerful JavaScript library for building user interfaces.
-- Next.js: A React framework for server-side rendering and static site generation.
-- TypeScript: A typed superset of JavaScript that enhances code quality and developer productivity.
-### Database
-- PostgreSQL: A powerful, open-source object-relational database system.
+I create responsive, user-centric web solutions that combine elegant design with powerful functionality. Currently working as a Developer at Echoess, building comprehensive learning platforms with modern web technologies.
 
-### Projects
-Here are some highlighted projects that demonstrate my skills and experience:
+### 🔭 Work Experience
 
-#### Axie Origin Card Explorer
-- Github - https://github.com/chris-melvin/origin
-- Link - https://origin-rosy.vercel.app/
+- **Developer at Echoess** (2024 - Present)
 
-#### Dogs Gallery
-- Github - https://github.com/chris-melvin/dogs/
-- Link - https://caninegallery.onrender.com/
+  - Developing comprehensive learning platforms using Next.js, Supabase, and Tailwind CSS
+  - Implementing advanced educational technologies for enhanced student engagement
 
+- **Software Developer at Prosperna** (2022 - 2024)
+  - Designed and maintained responsive UI for e-commerce platforms
+  - Focused on user experience and engagement optimization
+
+### 🛠️ Tech Stack
+
+- **Frontend**: React.js, Next.js, TypeScript
+- **Styling**: Tailwind CSS, CSS3
+- **Database**: PostgreSQL
+- **Other**: JAMStack, REST APIs
+
+### 🚀 Featured Projects
+
+#### [Echoess](https://echoess.xyz/)
+
+A comprehensive learning platform built with Next.js, Supabase, and Tailwind CSS
+
+#### [Trackr](https://trackr-rosy.vercel.app/)
+
+A task management app built with Next.js, Tailwind CSS, and Supabase
+
+#### [Axie Origin Card Explorer](https://origin-rosy.vercel.app/)
+
+A comprehensive card explorer built with Next.js, Tailwind, and Sanity.io
+
+- [View Code](https://github.com/chris-melvin/origin)
+
+#### [AI Image Generator](https://smartframe.vercel.app/)
+
+An AI-powered image generation tool using OpenAI's API
+
+- [View Code](https://github.com/chris-melvin/smartframe)
+
+#### [Canine Gallery](https://caninegallery.onrender.com/)
+
+An interactive dog gallery showcasing API integration
+
+- [View Code](https://github.com/chris-melvin/dogs/)
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/chris-melvin/)
+- [Portfolio](https://chris-melvin.vercel.app/)
+- [Instagram](https://www.instagram.com/chrismelvinf_/)
+
+### 📊 GitHub Stats
+
+![chris-melvin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-melvin&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+![chris-melvin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chris-melvin&theme=dracula&hide_border=false)

@@ -1,11 +1,35 @@
 [
   {
+    "title": "Echoess",
+    "description": "A comprehensive learning platform built with Next.js, Supabase, and Tailwind CSS",
+    "url": "https://echoess.xyz/",
+    "github": "",
+    "technologies": ["Next.js", "Supabase", "TailwindCSS"],
+    "id": 0
+  },
+  {
+    "title": "Trackr",
+    "description": "A habit tracking app built with Next.js, Tailwind CSS, and Supabase",
+    "url": "https://trackr.space/",
+    "github": "",
+    "technologies": ["Next.js", "TailwindCSS", "Supabase"],
+    "id": 1
+  },
+  {
+    "title": "FrameStackUI",
+    "description": "A UI library built with Tailwind CSS",
+    "url": "https://framestackui.vercel.app/",
+    "github": "https://github.com/chris-melvin/framestackui",
+    "technologies": ["React", "TailwindCSS", "HTML"],
+    "id": 2
+  },
+  {
     "title": "Axie Origin Card Explorer",
     "description": "Made with Tailwind, Next.js, and Sanity.io",
     "url": "https://origin-rosy.vercel.app/",
     "github": "https://github.com/chris-melvin/origin",
     "technologies": ["React", "TailwindCSS", "JAMStack"],
-    "id": 0
+    "id": 3
   },
   {
     "title": "AI Image Generator",
@@ -13,7 +37,7 @@
     "url": "https://smartframe.vercel.app/",
     "github": "https://github.com/chris-melvin/smartframe",
     "technologies": ["React", "TailwindCSS", "OPEN AI API"],
-    "id": 1
+    "id": 4
   },
   {
     "title": "Canine Gallery",
@@ -21,7 +45,7 @@
     "url": "https://caninegallery.onrender.com/",
     "github": "https://github.com/chris-melvin/dogs/",
     "technologies": ["React", "API", "CSS", "HTML"],
-    "id": 2
+    "id": 5
   },
   {
     "title": "Vinciix",
@@ -29,7 +53,7 @@
     "url": "https://vinciix.vercel.app/",
     "github": "",
     "technologies": ["Next.js", "Sanity", "Tailwind", "JAMStack"],
-    "id": 3
+    "id": 6
   },
   {
     "title": "Open Session",
@@ -37,7 +61,7 @@
     "url": "https://opensession.onrender.com/",
     "github": "",
     "technologies": ["Gatsby", "Styled-Components", "Contentful", "JAMStack"],
-    "id": 4
+    "id": 7
   },
   {
     "title": "Compound Calculator",
@@ -45,6 +69,6 @@
     "url": "https://compound-calculator-psi.vercel.app/",
     "github": "https://github.com/chris-melvin/compound-calculator/",
     "technologies": ["React", "CSS", "HTML"],
-    "id": 5
+    "id": 8
   }
 ]
