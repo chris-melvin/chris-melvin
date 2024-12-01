@@ -4,6 +4,10 @@
 
 I create responsive, user-centric web solutions that combine elegant design with powerful functionality. Currently working as a Developer at Echoess, building comprehensive learning platforms with modern web technologies.
 
+### My Portfolio
+
+Check out my [portfolio 💻](https://chris-melvin.vercel.app/)
+
 ### 🔭 Work Experience
 
 - **Developer at Echoess** (2024 - Present)
@@ -23,6 +27,12 @@ I create responsive, user-centric web solutions that combine elegant design with
 - **Other**: JAMStack, REST APIs
 
 ### 🚀 Featured Projects
+
+#### [FramestackUI](https://framestackui.vercel.app/)
+
+A UI library for building beautiful and responsive web applications
+
+- [View Code](https://github.com/chris-melvin/framestackui)
 
 #### [Echoess](https://echoess.xyz/)
 
@@ -54,7 +64,6 @@ An interactive dog gallery showcasing API integration
 
 - [LinkedIn](https://www.linkedin.com/in/chris-melvin/)
 - [Portfolio](https://chris-melvin.vercel.app/)
-- [Instagram](https://www.instagram.com/chrismelvinf_/)
 
 ### 📊 GitHub Stats
 
