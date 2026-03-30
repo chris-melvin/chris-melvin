@@ -1,6 +1,6 @@
 # Hi there, I'm Chris Melvin 👋
 
-## Frontend Developer
+## Software Engineer Lead
 
 I create responsive, user-centric web solutions that combine elegant design with powerful functionality. Currently working as a Developer at Echoess, building comprehensive learning platforms with modern web technologies.
 
